@@ -10,12 +10,12 @@ ETL en Python para base de datos de mensajería
 - Diego Fernando Victoria - 202125877 - diego.victoria@correounivalle.edu.co
 - Janiert Sebastián Salas - 201941265 - janiert.salas@correounivalle.edu.co
 
-## Creación de un entorno en Python
-```
-source my_env/bin/activate  
-```
+## Creación y activación de un entorno en Python
 ```
 python3 -m venv my_env
+```
+```
+source my_env/bin/activate  
 ```
 
 ## Instalación de librerías necesarias
