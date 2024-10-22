@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/62605744/171186764-43f7aae0-81a9-4b6e-b4ce-af963564eafb.png' style='max-width: 25%; height: auto;'>
+  <img width='200' heigth='225' src='https://user-images.githubusercontent.com/62605744/171186764-43f7aae0-81a9-4b6e-b4ce-af963564eafb.png'>
 </p>
 
 # Módulo de extracción, transformación y carga de datos
