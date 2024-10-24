@@ -1,6 +1,9 @@
-numpy==2.1.1
-pandas==2.2.3
-sqlalchemy
-pyyaml
-holidays
-psycopg2
+# Librerías necesarias
+# pip install -r requirements.txt
+
+numpy==2.1.1 # Biblioteca para cálculos numéricos
+pandas==2.2.3 # Manipulación y análisis de datos
+sqlalchemy # ORM para bases de datos SQL
+pyyaml # Manipulación de archivos YAML
+holidays # Manejo de días festivos
+psycopg2 # Conector para PostgreSQL
