@@ -7,3 +7,4 @@ sqlalchemy # ORM para bases de datos SQL
 pyyaml # Manipulación de archivos YAML
 holidays # Manejo de días festivos
 psycopg2 # Conector para PostgreSQL
+matplotlib # Visualización de gráficas
